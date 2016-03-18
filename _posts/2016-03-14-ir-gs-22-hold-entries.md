@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "IR GS22 - Hold Entries"
-date:   2016-03-22 10:29:00
+date:   2016-03-14 10:29:00
 categories: instrument-training
 ---
 
