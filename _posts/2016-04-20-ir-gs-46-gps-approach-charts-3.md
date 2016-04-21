@@ -67,7 +67,7 @@ corresponding IAF:
 **(Lack of..) MSAs in TAA Charts**
 
  - Terminal Approach Charts don't include MSAs, because the TAA Mininmum Altitudes serve this purpose instead
- - unlike MSAs, **TAAs are *flyable* altitudes, providing 1,000' of obstacle clearance, or 2,000' in mountainous
+ - unlike MSAs, **TAAs are *flyable* altitudes**, providing 1,000' of obstacle clearance, or 2,000' in mountainous
    areas
  - they also provide navigation and communication capability
  - it's also worth noting that the distances of the two side IAFs from the center IAF are chosen to accommodate
