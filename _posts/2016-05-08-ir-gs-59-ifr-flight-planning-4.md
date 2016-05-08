@@ -8,7 +8,7 @@ categories: instrument-training
 # Weather - Getting the Details
 
  - at this point you want to get a little more specific by checking the **area
-   forecast** and any **AIRMETs* and **SIGMETs**
+   forecast** and any **AIRMETs** and **SIGMETs**
     - AIRMETs and SIGMETs essentially *amend the area forecast*
     - this is why we look at the area forecast first, then check to see whether
       it's been amended, this gives us a good idea of how the weather's evolving
