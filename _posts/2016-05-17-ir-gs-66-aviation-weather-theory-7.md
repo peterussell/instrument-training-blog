@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "IR GS 66 - Aviation Weather Theory (7)"
-date:   2016-05-16 21:14:00
+date:   2016-05-17 19:22:00
 categories: instrument-training
 ---
 
