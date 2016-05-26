@@ -30,7 +30,7 @@ Pitot heat must be checked before every IFR flight - turn on the pitot heat swit
   - therefore airspeed indicator works like an altimeter:
     - **In a climb:** static air pressure *decreases*, bellow expands (replicating an increase in ram air pressure), and airspeed increases. May pull back to compensate and/or reduce power, possibly entering a stall scenario.
     - **In a descent:** static air pressure *increases*, bellow contracts (replicating a decrease in ram air pressure), and airspeed decreases. May push forward on the yoke to compensate and/or increase power - possible to exceed Vne (see below) and/or fly into terrain.
-    - **In level flgiht:** static air pressure remains the same, airspeed indicator reads constant regardless of power changes.
+    - **In level flight:** static air pressure remains the same, airspeed indicator reads constant regardless of power changes.
 
 **Airspeed Indicator Coloring**
 

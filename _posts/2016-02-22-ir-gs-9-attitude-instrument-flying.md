@@ -16,7 +16,7 @@ categories: instrument-training
 
 **Definition:**
 
-> the continuous and logical ovservation of instruments for attitude and performance information
+> the continuous and logical observation of instruments for attitude and performance information
 
  - necessary because no one instrument has all information
  - also helps identify when an instrument is faulty

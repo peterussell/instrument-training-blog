@@ -16,8 +16,12 @@ categories: instrument-training
  - must be taken at an FAA-approved test center
 
 # Aeronautical Experience
- - at least 50 hours XC flight time *as PIC* (at least 10 in an airplane, for an airplane IR) 
+ - at least 50 hours XC flight time *as PIC* (at least 10 in an airplane, for an airplane IR)
    - XC definition: one landing more than 50nm in a straight line from the point of departure. [AOPA link][aopa-xc-link] (14 CFR 61.1(b)(3)(ii))
+      - *note: this definition only applies to XC time for the purposes of applying for an Instrument Rating,
+        (or PPL or CPL) - otherwise, **any** flight conducted by a pilot in an aircraft that includes a landing
+        at a point other than the point of departure, and includes the use of dead reckoning, pilotage,
+        electronic navaids, radio aids, or other systems to navigate to the landing point counts as XC time*
    - touch-and-goes are OK
    - logging PIC time: sole manipulator of the controls of an aircraft for which the pilot is rated or has privileges [AOPA link][aopa-pic-link] (FAR 1.1, 61.51 [e]).
      - Note this is different to *acting* PIC (responsible for the flight)
@@ -29,9 +33,10 @@ categories: instrument-training
    - therefore, up to 25 hours with a safety pilot
    - safety pilot must be rated and current the airplane
 
-# Long Instrument XC
+# Long Instrument XC (FAR 61.65(d)(2)(ii))
  - a minimum of 250nm "along airways or via ATC-directed routing"
- - with at least 1 landing more than 50nm in a straight line from the point of departure
+ - <del>with at least 1 landing more than 50nm in a straight line from the point of departure</del>
+    - *note: the FAR listed above doesn't seem to make any mention of this requirement*
  - requires an instrument approach at each airport on your long XC
  - requires at least 3 types of instrument approaches (GPS, VOR, Localizer, LDA, SDF, NDB, ILS)
  - *not* required to each be at a different airport

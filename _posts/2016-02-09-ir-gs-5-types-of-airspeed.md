@@ -12,6 +12,7 @@ categories: instrument-training
  - if a controller asks for your airspeed, this is the value they want
 
 # Calibrated Airspeed (CAS)
+ - **CAS is IAS corrected for instrumentation and position errors**
  - at variable angles of attack, the pitot tube may not scoop up a sample of air that accurately reflects the current airspeed
    - sometimes it doesn't scoop up as much air as is actually striking it, giving a slower reading than actual
    - sometimes air may be artificially accelerated by a curved surface or similar, giving a faster reading than actual
@@ -21,6 +22,7 @@ categories: instrument-training
  - CAS still doesn't give you the airplane's *true* speed through the air...
 
 # True Airspeed (TAS)
+ - **TAS is CAS adjusted for non-standard temperature and pressure**
  - air at sea level is dense, but becomes less dense with altitude because there are fewer air molecules
  - this allows airplanes to travel faster at the same power setting at higher altitudes
  - however, there are less molecules being scooped into the pitot tube/bellow the higher you go
