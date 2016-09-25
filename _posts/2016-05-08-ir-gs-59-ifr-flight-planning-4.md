@@ -208,7 +208,7 @@ NOTAMs if you don't get them - you usually will but it's good to be sure.
 **Using Non-WAAS GPS Approaches at Alternates**
 
  - when using *non-WAAS* GPS for nav and instrument approaches, **any required
-   alternate airport you choose for your flight plan must have ann approved,
+   alternate airport you choose for your flight plan must have an approved,
    operational IAP *other* than the GPS**
  - Why? The GPS is subject to a few more errors than other guidance equipment
  - recall our discussion on RAIM, having enough satellites at the alternate, etc.
