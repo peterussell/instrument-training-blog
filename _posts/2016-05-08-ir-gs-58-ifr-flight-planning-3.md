@@ -67,7 +67,7 @@ meaningful** when trying to understand the turbulence potential of a storm.
     - high pressure moves down clockwise ('screws down' like a lid)
  - for example: if we have a low pressure area with a high radar return sitting
    on the north-west edge of it, then we can expect that radar return area to
-   move clockwise, in a south-west then south-east direction
+   move counter-clockwise, in a south-west then south-east direction
 
 # 12 and 24-hour Prognostic Charts
 
