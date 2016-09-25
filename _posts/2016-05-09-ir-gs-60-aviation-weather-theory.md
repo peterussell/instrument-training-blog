@@ -126,7 +126,7 @@ low pressure air, causing circulation.
     - in other words, the water molecules can't remain as vapor (gas) so they return to the
       liquid state in the form of something visible (a cloud)
     - additional cooling causes the water droplets to grow in size
- - the process of water vapor becoming visible is called **condesation**
+ - the process of water vapor becoming visible is called **condensation**
 
 # Ways to Cool Air
 
