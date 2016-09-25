@@ -97,5 +97,5 @@ meaningful** when trying to understand the turbulence potential of a storm.
       levels
     - **icing is possible where freezing or below, and visible moisture is present**
     - this doesn't mean icing *will* occur, but should definitely be avoided
-    - keep in mind that it's **illeagle to fly into known icing conditions in an
+    - keep in mind that it's **illegal to fly into known icing conditions in an
       airplane not certified for that kind of operation**
