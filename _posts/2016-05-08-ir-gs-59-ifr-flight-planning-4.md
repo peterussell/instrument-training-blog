@@ -72,7 +72,7 @@ is horizontally, and how extensive the water is vertically.
  - one place to get PIREPs is the NWS's Aviation Digital Data Service (ADDS) on
    the Aviation Weather Center website
  - remember, a lack of PIREPs could either indicate that no one's provided one,
-   or that *no one's flying*A
+   or that *no one's flying*
 
 # Terminal Forecast
 
